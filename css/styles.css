@@ -170,7 +170,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: auto;
 }
 
-@media (max-width: 360px) {
+@media (min-width: 430px) {
     #title{
         text-align: center;
     }
